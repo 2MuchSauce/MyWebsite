@@ -91,6 +91,17 @@ h3{
   float: left;
   margin: 0 1%;
 }
-.resume .bld{
+.resume .edu h4{
   font-weight: bold;
+  display: inline;
+}
+.resume .edu p{
+  display: inline;
+}
+.resume .langs h4{
+  font-weight: bold;
+  display: inline;
+}
+.resume .langs p{
+  display: inline;
 }
