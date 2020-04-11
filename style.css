@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Cuprum&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Roboto')
 
 *{
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: 'Cuprum', sans-serif;
+  font-family: 'Roboto';
 }
 
 body{
